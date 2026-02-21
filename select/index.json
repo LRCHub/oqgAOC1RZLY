@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "分身",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2026-02-21T06:41:28.966719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "分身",
+      "artist": "單依純",
+      "has_synced": false,
+      "path": "select/01_分身_單依純.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "分身",
+      "artist": "TRUE",
+      "has_synced": false,
+      "path": "select/02_分身_TRUE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "分身",
+      "artist": "柴咲コウ",
+      "has_synced": false,
+      "path": "select/03_分身_柴咲コウ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "分身",
+      "artist": "任嘉倫",
+      "has_synced": false,
+      "path": "select/04_分身_任嘉倫.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Track1　魔法薬の実験1(分身・左右同時耳舐め・ダブル手コキ・フェラキス)",
+      "artist": "ルナソフト",
+      "has_synced": true,
+      "path": "select/05_Track1_魔法薬の実験1(分身・左右同時耳舐め・ダブル手コキ・フェラキス)_ルナソフト.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "6_ボーナストラック3スキスキ耳舐め「分身」(両耳)",
+      "artist": "ふにゃころり",
+      "has_synced": true,
+      "path": "select/06_6_ボーナストラック3スキスキ耳舐め「分身」(両耳)_ふにゃころり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "分身",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_分身_ウォルピスカーター.txt"
+    }
+  ]
+}
